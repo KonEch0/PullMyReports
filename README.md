@@ -23,3 +23,8 @@ You would need to follow the on screen prompts and fill in the necessary infomat
 ![image](https://user-images.githubusercontent.com/102297040/159913145-8916756a-0795-46e8-8c29-34539253c45c.png)
 
 ![image](https://user-images.githubusercontent.com/102297040/159912974-68936d18-a63b-4c57-b2ce-c5c683686a1f.png)
+
+# Disclaimer
+The tools and code within this repository have no guarantee, usage comes at own risk.
+I do not take responsibility for how anyone chooses to use these tools, with usage, you understand that it is at your own risk.
+All tools and code here is designed for educational/research and operational purposes.
