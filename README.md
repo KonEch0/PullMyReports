@@ -13,6 +13,7 @@ python3 pullmyreports.py
 
 ```
 ### Executable
+The compiled version will take abit longer to start, smartscreen might prevent immediate execution.
 ```
 pullmyreports.exe
 ```
