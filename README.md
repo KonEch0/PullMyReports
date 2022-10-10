@@ -5,6 +5,9 @@ PullMyReports is a tool that allows you to automatically download reports from y
 
 The intention of this tool, is to automate the tedious task of downloading and renaming all the reports by hand.
 
+# Check out the new version!
+https://github.com/KonEch0/PullMyReports/releases
+
 # Usage
 ### Python
 ```bash
