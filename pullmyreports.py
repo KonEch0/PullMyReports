@@ -32,7 +32,7 @@ logo = Fore.CYAN+"""
 |.  1   ||  |  ||  ||  ||.      ||  |  ||.  l   /|  -__||  _  ||  _  ||   _||   _||__ --|
 |.  ____||_____||__||__||. \_/  ||___  ||.  _   1|_____||   __||_____||__|  |____||_____|
 |:  |                   |:  |   ||_____||:  |   |       |__|                             
-|::.|                   |::.|:. |       |::.|:. | """+Fore.YELLOW+"""\U0001F4DD NESSUS REPORT ASSISTANT V1.1"""+Fore.CYAN+"""                                      
+|::.|                   |::.|:. |       |::.|:. | """+Fore.YELLOW+"""\U0001F4DD NESSUS REPORT ASSISTANT V1.2"""+Fore.CYAN+"""                                      
 `---'                   `--- ---'       `--- ---' """+Fore.MAGENTA+Style.BRIGHT+""">>> Made by KonEcho\U0001F431                                     
                                                 """+Style.RESET_ALL
 print(logo)
