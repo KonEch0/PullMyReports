@@ -1137,7 +1137,6 @@ while True:
     if yesno2 in yesstrings2:
         print(Fore.GREEN+" \U00002705 Continuing...\n"+Style.RESET_ALL)
         start()
-        break
     elif yesno2 in nostrings2:
         print(Fore.YELLOW+" \U0001F44B Thanks for using PullMyReports!"+Style.RESET_ALL)
         print(articles+"\n")
